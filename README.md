@@ -1,3 +1,6 @@
+Estudiate: Radhames Emil Ventura Paniagua
+Matricula: 1116252
+
 # Requerimientos, Criterios, Casos
 
 1. ¿Qué es un Coding Dojo? referencia [https://lorenzosolano.com/what-is-coding-dojo/](https://lorenzosolano.com/what-is-coding-dojo/)
@@ -91,10 +94,30 @@ CP2:
 
 CP3:
 
-| Entrada              | Accion                                    | Resultado                             |
-| -------------------- | ----------------------------------------- | ------------------------------------- |
-| Carpeta del proyecto | Ejecutar convertidor.exe                  | El programa inicia y abre una consola |
-|                      | Usuario ingresa el numero 4 en la consola | La consola presenta "IV"              |
+- Entrada: 500
+- Accion: Convertidor.ConvertirDecimalRomano(int numDecimal): string
+- Resultado: "D"
+
+CP4:
+
+| Entrada              | Accion                                     | Resultado                             |
+| -------------------- | ------------------------------------------ | ------------------------------------- |
+| Carpeta del proyecto | Ejecutar convertidor.exe                   | El programa inicia y abre una consola |
+| 4                    | Usuario ingresa el numero 4 en la consola  | La consola presenta "IV"              |
+| 500                  | Usuario ingresa el numero y presiona enter | La consola presenta "D"               |
+|                      |                                            |                                       |
+
+CP5:
+ 
+- Entrada: -10
+- Accion: Convertidor.ConvertirDecimalRomano(int numDecimal): string
+- Resultado: "Error: numero fuera de rango"
+CP6:
+ 
+- Entrada: 45
+- Accion: Convertidor.ConvertirDecimalRomano(int numDecimal): string
+- Resultado: "XLV"
+
 
 #### Recibir una entrada numerico entera desde una consola.
 
