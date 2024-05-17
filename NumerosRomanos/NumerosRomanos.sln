@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosRomanos", "NumerosRomanos.csproj", "{427A395D-D2C6-4067-BDAF-9CB3B2BF813B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumerosRomanos", "NumerosRomanos.csproj", "{427A395D-D2C6-4067-BDAF-9CB3B2BF813B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romanos.Test", "..\Romanos.Test\Romanos.Test.csproj", "{CBCEA2AD-96ED-460E-B799-790100386D2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{427A395D-D2C6-4067-BDAF-9CB3B2BF813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427A395D-D2C6-4067-BDAF-9CB3B2BF813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427A395D-D2C6-4067-BDAF-9CB3B2BF813B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCEA2AD-96ED-460E-B799-790100386D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCEA2AD-96ED-460E-B799-790100386D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCEA2AD-96ED-460E-B799-790100386D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCEA2AD-96ED-460E-B799-790100386D2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

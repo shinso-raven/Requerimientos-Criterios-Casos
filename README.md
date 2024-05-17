@@ -112,6 +112,7 @@ CP5:
 - Entrada: -10
 - Accion: Convertidor.ConvertirDecimalRomano(int numDecimal): string
 - Resultado: "Error: numero fuera de rango"
+
 CP6:
  
 - Entrada: 45

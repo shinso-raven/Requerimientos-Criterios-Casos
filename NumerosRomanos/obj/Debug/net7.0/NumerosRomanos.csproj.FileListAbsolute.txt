@@ -12,3 +12,4 @@ C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desa
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Requerimientos, Criterios, Casos\NumerosRomanos\obj\Debug\net7.0\NumerosRomanos.pdb
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Requerimientos, Criterios, Casos\NumerosRomanos\obj\Debug\net7.0\NumerosRomanos.genruntimeconfig.cache
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Requerimientos, Criterios, Casos\NumerosRomanos\obj\Debug\net7.0\ref\NumerosRomanos.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Requerimientos, Criterios, Casos\NumerosRomanos\obj\Debug\net7.0\NumerosRomanos.sourcelink.json
